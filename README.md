@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="tony_stark.jpeg" alt="Tony Stark engineer banner" width="100%" />
+  <img src="tony_stark.jpeg" alt="Tony Stark engineer banner" width="88%" />
 </div>
 
 <h1 align="center">SUJEET KONA</h1>
