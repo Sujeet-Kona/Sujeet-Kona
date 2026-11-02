@@ -51,7 +51,7 @@ I learn by building, debugging, and understanding what happens underneath the ab
 ### ML / AI
 
 <p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt=
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
   <img src="https://img.shields.io/badge/Hugging%20Face%20Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Transformers" />
   <img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge" alt="RAG" />
@@ -67,7 +67,6 @@ I learn by building, debugging, and understanding what happens underneath the ab
   <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" alt="Qdrant" />
   <img src="https://img.shields.io/badge/FAISS-111827?style=for-the-badge" alt="FAISS" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge" alt="LangGraph" />
   <img src="https://img.shields.io/badge/RAGAS-111827?style=for-the-badge" alt="RAGAS" />
   <img src="https://img.shields.io/badge/LangSmith-111827?style=for-the-badge" alt="LangSmith" />
 </p>
