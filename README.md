@@ -21,50 +21,31 @@ I care about understanding the underlying concepts, testing assumptions, and bui
 
 ## Technology Stack
 
-<div align="center">
+<p align="left">
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="42" alt="Python" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="42" alt="FastAPI" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="42" alt="PostgreSQL" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="42" alt="PyTorch" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="42" alt="Hugging Face" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="42" alt="Docker" />
+</p>
 
-**LANGUAGES & BACKEND**
-
-<a href="https://www.python.org/"><img src="https://cdn.simpleicons.org/python/3776AB" height="34" alt="Python" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://en.cppreference.com/w/c"><img src="https://cdn.simpleicons.org/c/A8B9CC" height="34" alt="C" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://fastapi.tiangolo.com/"><img src="https://cdn.simpleicons.org/fastapi/009688" height="34" alt="FastAPI" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.postgresql.org/"><img src="https://cdn.simpleicons.org/postgresql/4169E1" height="34" alt="PostgreSQL" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.sqlalchemy.org/"><img src="https://cdn.simpleicons.org/sqlalchemy/D71F00" height="34" alt="SQLAlchemy" /></a>
-
-<br/><br/>
-
-**MACHINE LEARNING**
-
-<a href="https://pytorch.org/"><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="34" alt="PyTorch" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://scikit-learn.org/"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="34" alt="Scikit-learn" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://xgboost.ai/"><img src="https://cdn.simpleicons.org/xgboost/256B3A" height="34" alt="XGBoost" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://pandas.pydata.org/"><img src="https://cdn.simpleicons.org/pandas/150458" height="34" alt="Pandas" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://numpy.org/"><img src="https://cdn.simpleicons.org/numpy/013243" height="34" alt="NumPy" /></a>
-
-<br/><br/>
-
-**LLM ENGINEERING**
-
-<a href="https://huggingface.co/"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="34" alt="Hugging Face" /></a>
-
-<br/><br/>
-
-**RETRIEVAL & SEARCH**
-
-<a href="https://qdrant.tech/"><img src="https://cdn.simpleicons.org/qdrant/DC244C" height="34" alt="Qdrant" /></a>
-
-<br/><br/>
-
-**DEVELOPER TOOLS & QUALITY**
-
-<a href="https://www.docker.com/"><img src="https://cdn.simpleicons.org/docker/2496ED" height="34" alt="Docker" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://git-scm.com/"><img src="https://cdn.simpleicons.org/git/F05032" height="34" alt="Git" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/"><img src="https://cdn.simpleicons.org/github/8B949E" height="34" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://pytest.org/"><img src="https://cdn.simpleicons.org/pytest/0A9EDC" height="34" alt="pytest" /></a>
-
-</div>
----
-
+<p align="left">
+  <img src="https://cdn.simpleicons.org/qdrant/DC244C" height="42" alt="Qdrant" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git/F05032" height="42" alt="Git" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="42" alt="Scikit-learn" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/xgboost/256B3A" height="42" alt="XGBoost" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="42" alt="NumPy" />
+</p>
 ## GitHub Activity
 
 <div align="center">
