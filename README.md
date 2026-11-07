@@ -2,80 +2,62 @@
   <img src="tony_stark.jpeg" alt="Tony Stark engineer banner" width="88%" />
 </div>
 
-<h1 align="center">SUJEET KONA</h1>
+<h1 align="center">Sujeet Kona</h1>
 
 <p align="center">
-  <strong>3rd Year ECE Student</strong>
+  <strong>ECE Undergraduate · Backend Engineering · Applied AI</strong>
 </p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/kona-sujeet-6088b3374">LinkedIn</a>
+  ·
+  <a href="https://github.com/Sujeet-Kona">GitHub</a>
+  ·
+  <a href="https://leetcode.com/u/KONA_SUJEET/">LeetCode</a>
+</p>
+
+---
 
 ## About
 
-Electronics and Communication Engineering student interested in **software, backend systems, and AI**.
+I'm an Electronics and Communication Engineering student interested in building reliable software systems and practical AI applications.
 
-I learn by building, debugging, and understanding what happens underneath the abstractions rather than just making something work.
+My work focuses on the engineering behind the product: designing backend services, building and evaluating ML/LLM pipelines, and making systems testable, reproducible, and understandable.
 
-## How I Work
+## Selected Work
 
-- Fundamentals before abstractions.
-- Build → test → debug → improve.
-- Keep things simple and readable.
-- Understand the tools I use instead of collecting them.
+### [NEXORA — Multi-Tenant Enterprise RAG Platform](https://github.com/Sujeet-Kona/NEXORA)
 
-## Currently Improving
+A document-grounded question-answering backend built around hybrid retrieval, reranking, citation grounding, tenant isolation, and live retrieval evaluation.
 
-- Data structures and algorithms
-- Backend engineering with Python
-- Machine learning and LLM fundamentals
-- Testing, debugging, and software design
+### [RiskForge — Fraud Detection & Risk Decisioning](https://github.com/Sujeet-Kona/RiskForge)
 
-## Technical Skills
+A chronological fraud-risk pipeline combining point-in-time feature engineering, calibrated XGBoost predictions, explainable risk signals, and FastAPI inference.
 
-### Languages
+### [LoRAFlow — LLM Fine-Tuning & Evaluation](https://github.com/Sujeet-Kona/LoRAFlow)
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-</p>
+A reproducible LoRA fine-tuning workflow covering dataset validation, controlled experiments, held-out evaluation, adapter export, and inference serving.
 
-### Backend
+## Open Source
 
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/WebSockets-111827?style=for-the-badge" alt="WebSockets" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-</p>
+**[Qdrant Client — Vector-name validation](https://github.com/qdrant/qdrant-client/pull/1653)**
 
-### ML / AI
+Contributed validation and regression tests to the local collection implementation.
 
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt=
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/Hugging%20Face%20Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Transformers" />
-  <img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge" alt="RAG" />
-  <img src="https://img.shields.io/badge/Hybrid%20retrieval-111827?style=for-the-badge" alt="Hybrid retrieval" />
-  <img src="https://img.shields.io/badge/Reranking-111827?style=for-the-badge" alt="Reranking" />
-  <img src="https://img.shields.io/badge/LoRA%20%2F%20QLoRA-111827?style=for-the-badge" alt="LoRA / QLoRA" />
-  <img src="https://img.shields.io/badge/LLM%20evaluation-111827?style=for-the-badge" alt="LLM evaluation" />
-</p>
+## Technical Toolkit
 
-### AI tooling
+**Languages:** Python · C · SQL
 
-<p>
-  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" alt="Qdrant" />
-  <img src="https://img.shields.io/badge/FAISS-111827?style=for-the-badge" alt="FAISS" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain" />
-  <img src="https://img.shields.io/badge/RAGAS-111827?style=for-the-badge" alt="RAGAS" />
-  <img src="https://img.shields.io/badge/LangSmith-111827?style=for-the-badge" alt="LangSmith" />
-</p>
+**Backend & Data:** FastAPI · REST APIs · PostgreSQL · SQLAlchemy · Alembic · Qdrant
 
-### Engineering / DevOps
+**Machine Learning:** PyTorch · Scikit-learn · XGBoost · SHAP · Pandas · NumPy
 
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/AWS%20fundamentals-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS fundamentals" />
+**LLM Engineering:** Hugging Face Transformers · PEFT · TRL · LoRA · RAG · Hybrid Retrieval · Reranking
+
+**Engineering Tools:** Docker · Ollama · Git · GitHub · pytest · Ruff
+
+---
+
+<p align="center">
+  <sub>Build with fundamentals. Validate with experiments. Improve through iteration.</sub>
 </p>
