@@ -19,65 +19,66 @@ I'm a third-year Electronics and Communication Engineering student interested in
 
 I care about understanding the underlying concepts, testing assumptions, and building software that is reliable and maintainable.
 
-## Technologies
+## Technology Stack
 
 <table>
   <tr>
-    <th colspan="4" align="left">LANGUAGES & BACKEND</th>
+    <th colspan="5" align="left">LANGUAGES & BACKEND</th>
   </tr>
   <tr>
-    <td align="center" width="25%"><img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="Python" /><br/><sub>Python</sub></td>
-    <td align="center" width="25%"><img src="https://cdn.simpleicons.org/c/A8B9CC" height="30" alt="C" /><br/><sub>C</sub></td>
-    <td align="center" width="25%"><img src="https://cdn.simpleicons.org/fastapi/009688" height="30" alt="FastAPI" /><br/><sub>FastAPI</sub></td>
-    <td align="center" width="25%"><img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="PostgreSQL" /><br/><sub>PostgreSQL</sub></td>
+    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/python/3776AB" height="32" alt="Python" /><br/><sub>Python</sub></td>
+    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/c/A8B9CC" height="32" alt="C" /><br/><sub>C</sub></td>
+    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/fastapi/009688" height="32" alt="FastAPI" /><br/><sub>FastAPI</sub></td>
+    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/postgresql/4169E1" height="32" alt="PostgreSQL" /><br/><sub>PostgreSQL</sub></td>
+    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/sqlalchemy/D71F00" height="32" alt="SQLAlchemy" /><br/><sub>SQLAlchemy</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.simpleicons.org/sqlalchemy/D71F00" height="30" alt="SQLAlchemy" /><br/><sub>SQLAlchemy</sub></td>
-    <td align="center"><sub>SQL</sub></td>
-    <td align="center"><sub>REST APIs</sub></td>
-    <td align="center"><sub>Python testing</sub></td>
+    <td colspan="5" align="center"><sub>SQL · REST APIs · Python testing</sub></td>
   </tr>
   <tr>
-    <th colspan="4" align="left">MACHINE LEARNING & DATA</th>
+    <th colspan="5" align="left">MACHINE LEARNING & DATA</th>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="30" alt="PyTorch" /><br/><sub>PyTorch</sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="30" alt="Scikit-learn" /><br/><sub>Scikit-learn</sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/xgboost/256B3A" height="30" alt="XGBoost" /><br/><sub>XGBoost</sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/pandas/150458" height="30" alt="Pandas" /><br/><sub>Pandas</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="32" alt="PyTorch" /><br/><sub>PyTorch</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="32" alt="Scikit-learn" /><br/><sub>Scikit-learn</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/xgboost/256B3A" height="32" alt="XGBoost" /><br/><sub>XGBoost</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/pandas/150458" height="32" alt="Pandas" /><br/><sub>Pandas</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/numpy/013243" height="32" alt="NumPy" /><br/><sub>NumPy</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.simpleicons.org/numpy/013243" height="30" alt="NumPy" /><br/><sub>NumPy</sub></td>
-    <td align="center"><sub>Feature Engineering</sub></td>
-    <td align="center"><sub>Model Evaluation</sub></td>
-    <td align="center"><sub>Experiment Tracking</sub></td>
+    <td colspan="5" align="center"><sub>Feature Engineering · Model Evaluation · Experiment Tracking</sub></td>
   </tr>
   <tr>
-    <th colspan="4" align="left">LLM ENGINEERING & RETRIEVAL</th>
+    <th colspan="5" align="left">LLM ENGINEERING</th>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="30" alt="Hugging Face" /><br/><sub>Hugging Face</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="32" alt="Hugging Face" /><br/><sub>Hugging Face</sub></td>
     <td align="center"><sub>PEFT</sub></td>
     <td align="center"><sub>LoRA / QLoRA</sub></td>
     <td align="center"><sub>TRL</sub></td>
+    <td align="center"><sub>LLM Evaluation</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.simpleicons.org/qdrant/DC244C" height="30" alt="Qdrant" /><br/><sub>Qdrant</sub></td>
+    <th colspan="5" align="left">RETRIEVAL & SEARCH</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.simpleicons.org/qdrant/DC244C" height="32" alt="Qdrant" /><br/><sub>Qdrant</sub></td>
     <td align="center"><sub>BM25</sub></td>
     <td align="center"><sub>Hybrid Retrieval</sub></td>
     <td align="center"><sub>Reranking</sub></td>
+    <td align="center"><sub>Grounded Citations</sub></td>
   </tr>
   <tr>
-    <th colspan="4" align="left">TOOLS & QUALITY</th>
+    <th colspan="5" align="left">TOOLS & QUALITY</th>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="Docker" /><br/><sub>Docker</sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="Git" /><br/><sub>Git</sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/github/FFFFFF" height="30" alt="GitHub" /><br/><sub>GitHub</sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/pytest/0A9EDC" height="30" alt="pytest" /><br/><sub>pytest</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/docker/2496ED" height="32" alt="Docker" /><br/><sub>Docker</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/git/F05032" height="32" alt="Git" /><br/><sub>Git</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/github/FFFFFF" height="32" alt="GitHub" /><br/><sub>GitHub</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/pytest/0A9EDC" height="32" alt="pytest" /><br/><sub>pytest</sub></td>
+    <td align="center"><sub>Test Automation</sub></td>
   </tr>
 </table>
-
 ---
 
 ## GitHub Activity
