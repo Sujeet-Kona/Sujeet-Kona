@@ -44,7 +44,7 @@ Third-year Electronics and Communication Engineering student focused on **Applie
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
 
-<img src="https://xgboost.ai/images/logo/xgboost-logo-trimmed.png" height="20" alt="XGBoost logo" /> <strong>XGBoost</strong>
+<img src="https://img.shields.io/badge/XGBoost-256B3A?style=flat&logo=xgboost&logoColor=white" alt="XGBoost" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
 
