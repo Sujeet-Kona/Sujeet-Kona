@@ -5,8 +5,6 @@
 ### APPLIED AI ENGINEERING
 **Python Backend · Machine Learning · LLM Systems**
 
-<br />
-
 <a href="https://linkedin.com/in/kona-sujeet-6088b3374"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://leetcode.com/u/KONA_SUJEET/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 <a href="https://www.codechef.com/users/real_fleck_19"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" alt="CodeChef" /></a>
@@ -26,48 +24,52 @@ Third-year Electronics and Communication Engineering student focused on **Applie
 
 **LANGUAGES & BACKEND**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" alt="C" />
-<img src="https://img.shields.io/badge/SQL-263B55?style=flat" alt="SQL" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
+<a href="https://www.python.org/"><img src="https://cdn.simpleicons.org/python/3776AB" width="42" height="42" alt="Python" /></a>&nbsp;&nbsp;
+<a href="https://en.cppreference.com/w/c"><img src="https://cdn.simpleicons.org/c/A8B9CC" width="42" height="42" alt="C" /></a>&nbsp;&nbsp;
+<a href="https://fastapi.tiangolo.com/"><img src="https://cdn.simpleicons.org/fastapi/009688" width="42" height="42" alt="FastAPI" /></a>&nbsp;&nbsp;
+<a href="https://www.postgresql.org/"><img src="https://cdn.simpleicons.org/postgresql/4169E1" width="42" height="42" alt="PostgreSQL" /></a>&nbsp;&nbsp;
+<a href="https://www.sqlalchemy.org/"><img src="https://cdn.simpleicons.org/sqlalchemy/D71F00" width="42" height="42" alt="SQLAlchemy" /></a>
 
-<br />
+<sub>Python　 C　 FastAPI　 PostgreSQL　 SQLAlchemy　 ·　 SQL</sub>
+
+<br /><br />
 
 **MACHINE LEARNING**
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-<img src="https://img.shields.io/badge/XGBoost-256B3A?style=flat&logo=xgboost&logoColor=white" alt="XGBoost" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
+<a href="https://pytorch.org/"><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="42" height="42" alt="PyTorch" /></a>&nbsp;&nbsp;
+<a href="https://scikit-learn.org/"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="42" height="42" alt="Scikit-learn" /></a>&nbsp;&nbsp;
+<a href="https://xgboost.ai/"><img src="https://img.shields.io/badge/XGBoost-256B3A?style=flat&logo=xgboost&logoColor=white" height="28" alt="XGBoost" /></a>&nbsp;&nbsp;
+<a href="https://pandas.pydata.org/"><img src="https://cdn.simpleicons.org/pandas/150458" width="42" height="42" alt="Pandas" /></a>&nbsp;&nbsp;
+<a href="https://numpy.org/"><img src="https://cdn.simpleicons.org/numpy/013243" width="42" height="42" alt="NumPy" /></a>
 
-<br />
+<sub>PyTorch　 Scikit-learn　 XGBoost　 Pandas　 NumPy</sub>
+
+<br /><br />
 
 **LLM ENGINEERING**
 
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="Hugging Face" />
-<img src="https://img.shields.io/badge/PEFT%20%2F%20LoRA-344563?style=flat" alt="PEFT and LoRA" />
-<img src="https://img.shields.io/badge/TRL-344563?style=flat" alt="TRL" />
+<a href="https://huggingface.co/"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="42" height="42" alt="Hugging Face" /></a>
 
-<br />
+<sub>Hugging Face　 ·　 PEFT　 ·　 LoRA　 ·　 TRL</sub>
+
+<br /><br />
 
 **RETRIEVAL & SEARCH**
 
-<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat&logo=qdrant&logoColor=white" alt="Qdrant" />
-<img src="https://img.shields.io/badge/BM25-29445C?style=flat" alt="BM25" />
-<img src="https://img.shields.io/badge/Hybrid%20Retrieval-29445C?style=flat" alt="Hybrid retrieval" />
-<img src="https://img.shields.io/badge/Reranking-29445C?style=flat" alt="Reranking" />
+<a href="https://qdrant.tech/"><img src="https://cdn.simpleicons.org/qdrant/DC244C" width="42" height="42" alt="Qdrant" /></a>
 
-<br />
+<sub>Qdrant　 ·　 BM25　 ·　 Hybrid Retrieval　 ·　 Reranking</sub>
+
+<br /><br />
 
 **TOOLS & QUALITY**
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white" alt="pytest" />
+<a href="https://www.docker.com/"><img src="https://cdn.simpleicons.org/docker/2496ED" width="42" height="42" alt="Docker" /></a>&nbsp;&nbsp;
+<a href="https://git-scm.com/"><img src="https://cdn.simpleicons.org/git/F05032" width="42" height="42" alt="Git" /></a>&nbsp;&nbsp;
+<a href="https://github.com/"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="42" height="42" alt="GitHub" /></a>&nbsp;&nbsp;
+<a href="https://pytest.org/"><img src="https://cdn.simpleicons.org/pytest/0A9EDC" width="42" height="42" alt="pytest" /></a>
+
+<sub>Docker　 Git　 GitHub　 pytest</sub>
 
 </div>
 
@@ -77,12 +79,8 @@ Third-year Electronics and Communication Engineering student focused on **Applie
 
 <div align="center">
 
-<!-- Generated daily by .github/workflows/snake.yml -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sujeet-Kona/Sujeet-Kona/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sujeet-Kona/Sujeet-Kona/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation moving across my GitHub contribution graph" src="https://raw.githubusercontent.com/Sujeet-Kona/Sujeet-Kona/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
+<!-- Black-background snake animation, generated by .github/workflows/snake.yml -->
+<img src="https://raw.githubusercontent.com/Sujeet-Kona/Sujeet-Kona/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake on a black background" />
 
 </div>
 
