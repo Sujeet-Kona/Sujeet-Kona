@@ -22,29 +22,40 @@ I care about understanding the underlying concepts, testing assumptions, and bui
 ## Technology Stack
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="42" alt="Python" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/fastapi/009688" height="42" alt="FastAPI" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="42" alt="PostgreSQL" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="42" alt="PyTorch" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="42" alt="Hugging Face" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="42" alt="Docker" />
+  <strong>BACKEND</strong><br/>
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="Python" />
+  &nbsp;<img src="https://cdn.simpleicons.org/fastapi/009688" height="30" alt="FastAPI" />
+  &nbsp;<img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="PostgreSQL" />
+  &nbsp;&nbsp; C · SQL · REST APIs · SQLAlchemy · Redis · WebSockets
 </p>
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/qdrant/DC244C" height="42" alt="Qdrant" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/git/F05032" height="42" alt="Git" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="42" alt="Scikit-learn" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/xgboost/256B3A" height="42" alt="XGBoost" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="42" alt="NumPy" />
+  <strong>MACHINE LEARNING</strong><br/>
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="30" alt="PyTorch" />
+  &nbsp;<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="30" alt="Scikit-learn" />
+  &nbsp;<img src="https://cdn.simpleicons.org/xgboost/256B3A" height="30" alt="XGBoost" />
+  &nbsp;&nbsp; NumPy · Pandas · Feature Engineering · Model Evaluation
+</p>
+
+<p align="left">
+  <strong>LLM ENGINEERING</strong><br/>
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="30" alt="Hugging Face" />
+  &nbsp;&nbsp; Transformers · PEFT · LoRA / QLoRA · TRL · Fine-tuning · LLM Evaluation
+</p>
+
+<p align="left">
+  <strong>RETRIEVAL & SEARCH</strong><br/>
+  <img src="https://cdn.simpleicons.org/qdrant/DC244C" height="30" alt="Qdrant" />
+  &nbsp;&nbsp; BM25 · Hybrid Retrieval · Reranking · RAG · Grounded Citations
+</p>
+
+<p align="left">
+  <strong>DEVELOPER TOOLS & QUALITY</strong><br/>
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="Docker" />
+  &nbsp;<img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="Git" />
+  &nbsp;<img src="https://cdn.simpleicons.org/github/8B949E" height="30" alt="GitHub" />
+  &nbsp;<img src="https://cdn.simpleicons.org/pytest/0A9EDC" height="30" alt="pytest" />
+  &nbsp;&nbsp; Test Automation · CI
 </p>
 ## GitHub Activity
 
