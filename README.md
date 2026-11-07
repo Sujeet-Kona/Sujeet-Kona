@@ -53,8 +53,8 @@
 <p>Multi-tenant document intelligence with hybrid retrieval, reciprocal-rank fusion, cross-encoder reranking, grounded citations, and tenant isolation.</p>
 <p align="center"><b>LIVE RETRIEVAL EVALUATION</b></p>
 <p align="center">
-<img src="https://img.shields.io/badge/Recall%40 5-93.33%25-16a34a?style=flat-square" alt="Recall at 5 93.33 percent" />
-<img src="https://img.shields.io/badge/Recall%40 10-100%25-16a34a?style=flat-square" alt="Recall at 10 100 percent" />
+<img src="https://img.shields.io/badge/Recall%405-93.33%25-16a34a?style=flat-square" alt="Recall at 5 93.33 percent" />
+<img src="https://img.shields.io/badge/Recall%4010-100%25-16a34a?style=flat-square" alt="Recall at 10 100 percent" />
 </p>
 <p align="center"><sub>FastAPI · PostgreSQL · Qdrant · BM25 · RRF</sub></p>
 
