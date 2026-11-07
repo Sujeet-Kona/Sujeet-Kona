@@ -6,19 +6,17 @@
 
 # SUJEET KONA
 
-### BACKEND SYSTEMS &nbsp;·&nbsp; APPLIED AI &nbsp;·&nbsp; ML ENGINEERING
+**SOFTWARE SYSTEMS / APPLIED AI / MACHINE LEARNING**
 
-<a href="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=850&color=F97316&center=true&vCenter=true&width=680&lines=Design+the+system.;Measure+the+outcome.;Make+the+next+iteration+better."><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=850&color=F97316&center=true&vCenter=true&width=680&lines=Design+the+system.;Measure+the+outcome.;Make+the+next+iteration+better." alt="Design the system. Measure the outcome. Make the next iteration better." /></a>
-
-**Third-year ECE undergraduate** building practical software and AI systems.
+<sub>ECE undergraduate · Building beyond the demo</sub>
 
 <br />
 
-<a href="https://linkedin.com/in/kona-sujeet-6088b3374"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-&nbsp;
-<a href="https://github.com/Sujeet-Kona"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-&nbsp;
-<a href="https://leetcode.com/u/KONA_SUJEET/"><img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="https://linkedin.com/in/kona-sujeet-6088b3374">LINKEDIN</a>
+&nbsp; // &nbsp;
+<a href="https://github.com/Sujeet-Kona">GITHUB</a>
+&nbsp; // &nbsp;
+<a href="https://leetcode.com/u/KONA_SUJEET/">LEETCODE</a>
 
 </div>
 
@@ -26,187 +24,175 @@
 
 <div align="center">
 
-**01 — ENGINEERING INTERESTS**
+<sub><b>ENGINEERING LOG  /  2026</b></sub>
+
+### I BUILD SYSTEMS THAT CAN BE TESTED, MEASURED, AND TRUSTED.
 
 </div>
 
-<table>
-<tr>
-<td width="33%" valign="top">
+I’m a third-year Electronics and Communication Engineering undergraduate interested in backend engineering and applied AI. My work spans retrieval systems, fraud-risk modelling, and LLM fine-tuning.
 
-**BACKEND SYSTEMS**
+I’m most interested in the engineering underneath the feature: data contracts, evaluation methodology, failure handling, reproducibility, and reliable inference.
 
-APIs, data modelling, persistence, authentication, reliability, and production-minded service design.
+---
 
-</td>
-<td width="33%" valign="top">
-
-**APPLIED MACHINE LEARNING**
-
-Temporal modelling, fraud-risk scoring, calibration, explainability, and decision systems.
-
-</td>
-<td width="33%" valign="top">
-
-**LLM ENGINEERING**
-
-Hybrid retrieval, reranking, fine-tuning, controlled evaluation, and model serving.
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-**02 — SELECTED ENGINEERING WORK**
-
-</div>
+## 01 — PROJECT SYSTEMS
 
 <table>
 <tr>
-<td valign="top" width="110">
+<td width="72%" valign="top">
 
-<h3 align="center">01</h3>
-<p align="center"><sub>RETRIEVAL</sub></p>
+### <a href="https://github.com/Sujeet-Kona/NEXORA">NEXORA</a> <sup>01 / RETRIEVAL SYSTEMS</sup>
 
-</td>
-<td valign="top">
+**Multi-tenant enterprise RAG platform**
 
-### <a href="https://github.com/Sujeet-Kona/NEXORA">NEXORA</a> <sub> / Enterprise RAG Platform</sub>
-
-A multi-tenant document intelligence platform built around hybrid retrieval, reciprocal-rank fusion, cross-encoder reranking, grounded citations, and tenant isolation.
+A document intelligence system with hybrid sparse+dense retrieval, reciprocal-rank fusion, cross-encoder reranking, grounded citations, and tenant-level isolation.
 
 **Evaluation snapshot**
 
-<img src="https://img.shields.io/badge/Recall%405-93.33%25-16a34a?style=flat-square" alt="Recall at 5: 93.33 percent" />
-<img src="https://img.shields.io/badge/Recall%4010-100%25-16a34a?style=flat-square" alt="Recall at 10: 100 percent" />
+| Recall@5 | Recall@10 | Evaluation set |
+|:---:|:---:|:---:|
+| **93.33%** | **100%** | 60 questions |
 
-<sub>Measured across a 60-question retrieval evaluation set.</sub>
+<sub>FastAPI · PostgreSQL · Qdrant · BM25 · RRF · Cross-Encoder · SSE</sub>
 
-<sub>FastAPI · PostgreSQL · Qdrant · BM25 · RRF · Cross-Encoder</sub>
+</td>
+<td width="28%" valign="middle" align="center">
+
+<img src="https://img.shields.io/badge/RAG-HYBRID%20RETRIEVAL-EA580C?style=for-the-badge" alt="Hybrid retrieval" />
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/MULTI--TENANT-ISOLATED-27272A?style=for-the-badge" alt="Multi tenant isolated" />
 
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td colspan="2"><hr /></td>
+</tr>
+<tr>
+<td width="72%" valign="top">
 
-<h3 align="center">02</h3>
-<p align="center"><sub>RISK ML</sub></p>
+### <a href="https://github.com/Sujeet-Kona/RiskForge">RISKFORGE</a> <sup>02 / DECISION SYSTEMS</sup>
 
-</td>
-<td valign="top">
+**Temporal fraud-risk modelling and serving**
 
-### <a href="https://github.com/Sujeet-Kona/RiskForge">RISKFORGE</a> <sub> / Fraud Risk Decision System</sub>
-
-A chronological fraud-modelling pipeline using point-in-time behavioural features, calibrated probabilities, TreeSHAP explanations, and a FastAPI scoring service.
+A chronological machine-learning pipeline built on IEEE-CIS transactions, with point-in-time behavioural features, calibrated probabilities, TreeSHAP explanations, and a FastAPI scoring service.
 
 **Held-out temporal test results**
 
-<img src="https://img.shields.io/badge/Average%20Precision-0.449-2563eb?style=flat-square" alt="Average precision: 0.449" />
-<img src="https://img.shields.io/badge/ROC--AUC-0.865-2563eb?style=flat-square" alt="ROC AUC: 0.865" />
-
-<sub>IEEE-CIS transaction dataset · 590K+ source transactions</sub>
+| Average Precision | ROC-AUC | Source data |
+|:---:|:---:|:---:|
+| **0.449** | **0.865** | 590K+ transactions |
 
 <sub>Python · XGBoost · Scikit-learn · SHAP · FastAPI</sub>
 
 </td>
-</tr>
-<tr>
-<td valign="top">
+<td width="28%" valign="middle" align="center">
 
-<h3 align="center">03</h3>
-<p align="center"><sub>LLM OPS</sub></p>
+<img src="https://img.shields.io/badge/TEMPORAL-VALIDATION-2563EB?style=for-the-badge" alt="Temporal validation" />
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/EXPLAINABLE-ML-27272A?style=for-the-badge" alt="Explainable ML" />
 
 </td>
-<td valign="top">
+</tr>
+<tr>
+<td colspan="2"><hr /></td>
+</tr>
+<tr>
+<td width="72%" valign="top">
 
-### <a href="https://github.com/Sujeet-Kona/LoRAFlow">LoRAFlow</a> <sub> / LLM Fine-Tuning & Evaluation</sub>
+### <a href="https://github.com/Sujeet-Kona/LoRAFlow">LoRAFlow</a> <sup>03 / LLM ENGINEERING</sup>
 
-A reproducible, configuration-driven LoRA workflow covering dataset validation, supervised fine-tuning, multi-seed experiments, held-out evaluation, adapter export, and API serving.
+**Reproducible fine-tuning and evaluation pipeline**
 
-**Prompt-v2 · Track B evaluation**
+A configuration-driven LoRA workflow covering dataset validation, supervised fine-tuning, multi-seed experiments, held-out evaluation, adapter export/reload, and API serving.
 
-<img src="https://img.shields.io/badge/Exact%20Match-77.33%25-9333ea?style=flat-square" alt="Exact match: 77.33 percent" />
-<img src="https://img.shields.io/badge/TF--IDF%20Baseline-56%25-64748b?style=flat-square" alt="TF-IDF baseline: 56 percent" />
+**Prompt-v2 · Track B · held-out evaluation**
 
-<sub>Held-out evaluation · synthetic task track</sub>
+| Exact Match | TF-IDF baseline | Difference |
+|:---:|:---:|:---:|
+| **77.33%** | **56.00%** | **+21.33 pp** |
 
 <sub>PyTorch · Transformers · TRL · PEFT · LoRA</sub>
+
+</td>
+<td width="28%" valign="middle" align="center">
+
+<img src="https://img.shields.io/badge/LLM-ADAPTER%20TRAINING-9333EA?style=for-the-badge" alt="LLM adapter training" />
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/MULTI--SEED-EXPERIMENTS-27272A?style=for-the-badge" alt="Multi seed experiments" />
 
 </td>
 </tr>
 </table>
 
-<div align="center">
+---
 
-**03 — TOOLS I USE**
-
-</div>
+## 02 — ENGINEERING TOOLKIT
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**LANGUAGES & BACKEND**
+**01 / BUILD**
 
-<img src="https://skillicons.dev/icons?i=python,c,fastapi,postgres,docker&theme=dark" alt="Python, C, FastAPI, PostgreSQL, Docker" />
+- Python, C, SQL
+- FastAPI, REST APIs
+- PostgreSQL, SQLAlchemy, Alembic
+- Docker, Git, GitHub
 
 </td>
 <td width="50%" valign="top">
 
-**MACHINE LEARNING & LLMs**
+**02 / MODEL**
 
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" alt="PyTorch and Scikit-learn" />
-
-<img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Transformers" />
-<img src="https://img.shields.io/badge/PEFT%20%2F%20LoRA-7C3AED?style=flat-square" alt="PEFT and LoRA" />
-<img src="https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square" alt="XGBoost" />
+- PyTorch, Scikit-learn, XGBoost
+- Hugging Face Transformers
+- PEFT, LoRA, TRL
+- SHAP, Pandas, NumPy
 
 </td>
 </tr>
 <tr>
 <td colspan="2">
 
-**RETRIEVAL, DATA & QUALITY**
+**03 / RETRIEVE & EVALUATE**
 
-<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" alt="Qdrant" />
-<img src="https://img.shields.io/badge/BM25-334155?style=flat-square" alt="BM25" />
-<img src="https://img.shields.io/badge/Hybrid%20Search-334155?style=flat-square" alt="Hybrid Search" />
-<img src="https://img.shields.io/badge/Reranking-334155?style=flat-square" alt="Reranking" />
-<img src="https://img.shields.io/badge/SHAP-334155?style=flat-square" alt="SHAP" />
-<img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest" />
-<img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Git and GitHub" />
+- Qdrant, BM25, dense and hybrid retrieval
+- Reciprocal-rank fusion, cross-encoder reranking
+- pytest, regression testing, held-out evaluation
 
 </td>
 </tr>
 </table>
 
-<div align="center">
+---
 
-**04 — OPEN SOURCE**
+## 03 — OPEN SOURCE
 
-</div>
+**<a href="https://github.com/qdrant/qdrant-client/pull/1653">Qdrant Client · PR #1653</a>**
 
-<div align="center">
-
-### <a href="https://github.com/qdrant/qdrant-client/pull/1653">Qdrant Client · PR #1653</a>
-
-Vector-name validation in the local collection implementation, with regression coverage for retrieval and query operations.
-
-<sub>Contribution submitted · review status on GitHub</sub>
-
-</div>
+Contributed vector-name validation to the local collection implementation, with regression tests for retrieval and query operations. <sub>Submitted pull request · see GitHub for review status.</sub>
 
 ---
 
 <div align="center">
 
-### BUILD WITH INTENT. VERIFY WITH EVIDENCE.
+### LESS HYPE. MORE ENGINEERING.
 
-<sub>Fundamentals first · Reproducible experiments · Reliable systems</sub>
+<sub>Understand the system. Measure the result. Improve the implementation.</sub>
 
-<br />
+<br /><br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090b,50:27272a,100:ea580c&height=5&section=footer" width="100%" alt="" />
+<a href="https://github.com/Sujeet-Kona/NEXORA">NEXORA</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/Sujeet-Kona/RiskForge">RISKFORGE</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/Sujeet-Kona/LoRAFlow">LORAFLOW</a>
 
 </div>
