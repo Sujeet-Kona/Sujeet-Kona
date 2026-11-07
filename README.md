@@ -25,44 +25,72 @@ I care about understanding the underlying concepts, testing assumptions, and bui
 
 **LANGUAGES & BACKEND**
 
-<a href="https://www.python.org/"><img src="https://cdn.simpleicons.org/python/3776AB" height="22" alt="Python" /> Python</a>&nbsp;&nbsp;&nbsp;
-<a href="https://en.cppreference.com/w/c"><img src="https://cdn.simpleicons.org/c/A8B9CC" height="22" alt="C" /> C</a>&nbsp;&nbsp;&nbsp;
-<a href="https://fastapi.tiangolo.com/"><img src="https://cdn.simpleicons.org/fastapi/009688" height="22" alt="FastAPI" /> FastAPI</a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.postgresql.org/"><img src="https://cdn.simpleicons.org/postgresql/4169E1" height="22" alt="PostgreSQL" /> PostgreSQL</a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.sqlalchemy.org/"><img src="https://cdn.simpleicons.org/sqlalchemy/D71F00" height="22" alt="SQLAlchemy" /> SQLAlchemy</a>
+<a href="https://www.python.org/"><img src="https://cdn.simpleicons.org/python/3776AB" height="20" alt="Python" /> Python</a>
+&nbsp; · &nbsp;
+<a href="https://en.cppreference.com/w/c"><img src="https://cdn.simpleicons.org/c/A8B9CC" height="20" alt="C" /> C</a>
+&nbsp; · &nbsp;
+SQL
+&nbsp; · &nbsp;
+<a href="https://fastapi.tiangolo.com/"><img src="https://cdn.simpleicons.org/fastapi/009688" height="20" alt="FastAPI" /> FastAPI</a>
+&nbsp; · &nbsp;
+<a href="https://www.postgresql.org/"><img src="https://cdn.simpleicons.org/postgresql/4169E1" height="20" alt="PostgreSQL" /> PostgreSQL</a>
+&nbsp; · &nbsp;
+<a href="https://www.sqlalchemy.org/"><img src="https://cdn.simpleicons.org/sqlalchemy/D71F00" height="20" alt="SQLAlchemy" /> SQLAlchemy</a>
 
 <br/><br/>
 
-**MACHINE LEARNING & DATA**
+**MACHINE LEARNING**
 
-<a href="https://pytorch.org/"><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="22" alt="PyTorch" /> PyTorch</a>&nbsp;&nbsp;&nbsp;
-<a href="https://scikit-learn.org/"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="22" alt="Scikit-learn" /> Scikit-learn</a>&nbsp;&nbsp;&nbsp;
-<a href="https://xgboost.ai/"><img src="https://cdn.simpleicons.org/xgboost/256B3A" height="22" alt="XGBoost" /> XGBoost</a>&nbsp;&nbsp;&nbsp;
-<a href="https://pandas.pydata.org/"><img src="https://cdn.simpleicons.org/pandas/150458" height="22" alt="Pandas" /> Pandas</a>&nbsp;&nbsp;&nbsp;
-<a href="https://numpy.org/"><img src="https://cdn.simpleicons.org/numpy/013243" height="22" alt="NumPy" /> NumPy</a>
+<a href="https://pytorch.org/"><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="20" alt="PyTorch" /> PyTorch</a>
+&nbsp; · &nbsp;
+<a href="https://scikit-learn.org/"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="20" alt="Scikit-learn" /> Scikit-learn</a>
+&nbsp; · &nbsp;
+<a href="https://xgboost.ai/"><img src="https://cdn.simpleicons.org/xgboost/256B3A" height="20" alt="XGBoost" /> XGBoost</a>
+&nbsp; · &nbsp;
+<a href="https://pandas.pydata.org/"><img src="https://cdn.simpleicons.org/pandas/150458" height="20" alt="Pandas" /> Pandas</a>
+&nbsp; · &nbsp;
+<a href="https://numpy.org/"><img src="https://cdn.simpleicons.org/numpy/013243" height="20" alt="NumPy" /> NumPy</a>
 
 <br/><br/>
 
 **LLM ENGINEERING**
 
-<a href="https://huggingface.co/"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="22" alt="Hugging Face" /> Hugging Face</a>&nbsp;&nbsp;&nbsp;
-PEFT&nbsp;&nbsp;·&nbsp;&nbsp;LoRA / QLoRA&nbsp;&nbsp;·&nbsp;&nbsp;TRL&nbsp;&nbsp;·&nbsp;&nbsp;LLM Evaluation
+<a href="https://huggingface.co/"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="20" alt="Hugging Face" /> Hugging Face</a>
+&nbsp; · &nbsp;
+PEFT
+&nbsp; · &nbsp;
+LoRA / QLoRA
+&nbsp; · &nbsp;
+TRL
+&nbsp; · &nbsp;
+LLM Evaluation
 
 <br/><br/>
 
 **RETRIEVAL & SEARCH**
 
-<a href="https://qdrant.tech/"><img src="https://cdn.simpleicons.org/qdrant/DC244C" height="22" alt="Qdrant" /> Qdrant</a>&nbsp;&nbsp;&nbsp;
-BM25&nbsp;&nbsp;·&nbsp;&nbsp;Hybrid Retrieval&nbsp;&nbsp;·&nbsp;&nbsp;Reranking&nbsp;&nbsp;·&nbsp;&nbsp;Grounded Citations
+<a href="https://qdrant.tech/"><img src="https://cdn.simpleicons.org/qdrant/DC244C" height="20" alt="Qdrant" /> Qdrant</a>
+&nbsp; · &nbsp;
+BM25
+&nbsp; · &nbsp;
+Hybrid Retrieval
+&nbsp; · &nbsp;
+Reranking
+&nbsp; · &nbsp;
+Grounded Citations
 
 <br/><br/>
 
-**TOOLS & QUALITY**
+**DEVELOPER TOOLS & QUALITY**
 
-<a href="https://www.docker.com/"><img src="https://cdn.simpleicons.org/docker/2496ED" height="22" alt="Docker" /> Docker</a>&nbsp;&nbsp;&nbsp;
-<a href="https://git-scm.com/"><img src="https://cdn.simpleicons.org/git/F05032" height="22" alt="Git" /> Git</a>&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/"><img src="https://cdn.simpleicons.org/github/FFFFFF" height="22" alt="GitHub" /> GitHub</a>&nbsp;&nbsp;&nbsp;
-<a href="https://pytest.org/"><img src="https://cdn.simpleicons.org/pytest/0A9EDC" height="22" alt="pytest" /> pytest</a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.docker.com/"><img src="https://cdn.simpleicons.org/docker/2496ED" height="20" alt="Docker" /> Docker</a>
+&nbsp; · &nbsp;
+<a href="https://git-scm.com/"><img src="https://cdn.simpleicons.org/git/F05032" height="20" alt="Git" /> Git</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/"><img src="https://cdn.simpleicons.org/github/8B949E" height="20" alt="GitHub" /> GitHub</a>
+&nbsp; · &nbsp;
+<a href="https://pytest.org/"><img src="https://cdn.simpleicons.org/pytest/0A9EDC" height="20" alt="pytest" /> pytest</a>
+&nbsp; · &nbsp;
 Test Automation
 
 </div>
