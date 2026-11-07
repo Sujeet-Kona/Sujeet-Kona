@@ -1,22 +1,18 @@
 <div align="center">
 
-<img src="tony_stark.jpeg" width="100%" alt="Tony Stark-inspired engineering banner" />
-
-<br />
-
-# SUJEET KONA
-
-**SOFTWARE SYSTEMS / APPLIED AI / MACHINE LEARNING**
-
-<sub>ECE undergraduate · Building beyond the demo</sub>
+<img src="assets/systems-lab.svg" width="100%" alt="Sujeet Kona — Systems Lab" />
 
 <br />
 
 <a href="https://linkedin.com/in/kona-sujeet-6088b3374">LINKEDIN</a>
-&nbsp; // &nbsp;
+&nbsp; ◇ &nbsp;
 <a href="https://github.com/Sujeet-Kona">GITHUB</a>
-&nbsp; // &nbsp;
+&nbsp; ◇ &nbsp;
 <a href="https://leetcode.com/u/KONA_SUJEET/">LEETCODE</a>
+
+<br /><br />
+
+<sub>ECE UNDERGRADUATE &nbsp; / &nbsp; SOFTWARE SYSTEMS &nbsp; / &nbsp; APPLIED AI</sub>
 
 </div>
 
@@ -24,175 +20,160 @@
 
 <div align="center">
 
-<sub><b>ENGINEERING LOG  /  2026</b></sub>
+**ENGINEERING ISN'T THE DEMO. IT'S EVERYTHING THAT MAKES THE DEMO HOLD UP.**
 
-### I BUILD SYSTEMS THAT CAN BE TESTED, MEASURED, AND TRUSTED.
+<sub>Retrieval quality · Temporal correctness · Reproducible experiments · Reliable inference</sub>
 
 </div>
 
-I’m a third-year Electronics and Communication Engineering undergraduate interested in backend engineering and applied AI. My work spans retrieval systems, fraud-risk modelling, and LLM fine-tuning.
-
-I’m most interested in the engineering underneath the feature: data contracts, evaluation methodology, failure handling, reproducibility, and reliable inference.
-
----
-
-## 01 — PROJECT SYSTEMS
+## 01 / SYSTEMS IN THE FIELD
 
 <table>
 <tr>
-<td width="72%" valign="top">
+<td width="68%" valign="top">
 
-### <a href="https://github.com/Sujeet-Kona/NEXORA">NEXORA</a> <sup>01 / RETRIEVAL SYSTEMS</sup>
+### <a href="https://github.com/Sujeet-Kona/NEXORA">NEXORA</a>
+<sub>01 — KNOWLEDGE RETRIEVAL SYSTEM</sub>
 
-**Multi-tenant enterprise RAG platform**
+Multi-tenant document intelligence platform combining BM25 and dense retrieval, reciprocal-rank fusion, cross-encoder reranking, grounded citations, and tenant isolation.
 
-A document intelligence system with hybrid sparse+dense retrieval, reciprocal-rank fusion, cross-encoder reranking, grounded citations, and tenant-level isolation.
-
-**Evaluation snapshot**
-
-| Recall@5 | Recall@10 | Evaluation set |
-|:---:|:---:|:---:|
-| **93.33%** | **100%** | 60 questions |
-
-<sub>FastAPI · PostgreSQL · Qdrant · BM25 · RRF · Cross-Encoder · SSE</sub>
+**RETRIEVAL EVALUATION**
 
 </td>
-<td width="28%" valign="middle" align="center">
+<td width="32%" align="center" valign="middle">
 
-<img src="https://img.shields.io/badge/RAG-HYBRID%20RETRIEVAL-EA580C?style=for-the-badge" alt="Hybrid retrieval" />
-
+<strong>93.33%</strong><br />
+<sub>RECALL@5</sub>
 <br /><br />
-
-<img src="https://img.shields.io/badge/MULTI--TENANT-ISOLATED-27272A?style=for-the-badge" alt="Multi tenant isolated" />
-
-</td>
-</tr>
-<tr>
-<td colspan="2"><hr /></td>
-</tr>
-<tr>
-<td width="72%" valign="top">
-
-### <a href="https://github.com/Sujeet-Kona/RiskForge">RISKFORGE</a> <sup>02 / DECISION SYSTEMS</sup>
-
-**Temporal fraud-risk modelling and serving**
-
-A chronological machine-learning pipeline built on IEEE-CIS transactions, with point-in-time behavioural features, calibrated probabilities, TreeSHAP explanations, and a FastAPI scoring service.
-
-**Held-out temporal test results**
-
-| Average Precision | ROC-AUC | Source data |
-|:---:|:---:|:---:|
-| **0.449** | **0.865** | 590K+ transactions |
-
-<sub>Python · XGBoost · Scikit-learn · SHAP · FastAPI</sub>
-
-</td>
-<td width="28%" valign="middle" align="center">
-
-<img src="https://img.shields.io/badge/TEMPORAL-VALIDATION-2563EB?style=for-the-badge" alt="Temporal validation" />
-
+<strong>100%</strong><br />
+<sub>RECALL@10</sub>
 <br /><br />
-
-<img src="https://img.shields.io/badge/EXPLAINABLE-ML-27272A?style=for-the-badge" alt="Explainable ML" />
+<sub>60 evaluation questions</sub>
 
 </td>
 </tr>
 <tr>
-<td colspan="2"><hr /></td>
+<td colspan="2">
+<sub>FASTAPI &nbsp; / &nbsp; POSTGRESQL &nbsp; / &nbsp; QDRANT &nbsp; / &nbsp; BM25 &nbsp; / &nbsp; RRF &nbsp; / &nbsp; RERANKING &nbsp; / &nbsp; SSE</sub>
+</td>
 </tr>
+</table>
+
+<table>
 <tr>
-<td width="72%" valign="top">
+<td width="68%" valign="top">
 
-### <a href="https://github.com/Sujeet-Kona/LoRAFlow">LoRAFlow</a> <sup>03 / LLM ENGINEERING</sup>
+### <a href="https://github.com/Sujeet-Kona/RiskForge">RISKFORGE</a>
+<sub>02 — FRAUD DECISION ENGINE</sub>
 
-**Reproducible fine-tuning and evaluation pipeline**
+Chronological fraud-risk modelling on IEEE-CIS transaction data, with point-in-time behavioural features, calibrated probabilities, TreeSHAP explanations, and an API scoring layer.
 
-A configuration-driven LoRA workflow covering dataset validation, supervised fine-tuning, multi-seed experiments, held-out evaluation, adapter export/reload, and API serving.
-
-**Prompt-v2 · Track B · held-out evaluation**
-
-| Exact Match | TF-IDF baseline | Difference |
-|:---:|:---:|:---:|
-| **77.33%** | **56.00%** | **+21.33 pp** |
-
-<sub>PyTorch · Transformers · TRL · PEFT · LoRA</sub>
+**HELD-OUT TEMPORAL TEST**
 
 </td>
-<td width="28%" valign="middle" align="center">
+<td width="32%" align="center" valign="middle">
 
-<img src="https://img.shields.io/badge/LLM-ADAPTER%20TRAINING-9333EA?style=for-the-badge" alt="LLM adapter training" />
-
+<strong>0.449</strong><br />
+<sub>AVERAGE PRECISION</sub>
 <br /><br />
+<strong>0.865</strong><br />
+<sub>ROC-AUC</sub>
+<br /><br />
+<sub>590K+ transactions</sub>
 
-<img src="https://img.shields.io/badge/MULTI--SEED-EXPERIMENTS-27272A?style=for-the-badge" alt="Multi seed experiments" />
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<sub>PYTHON &nbsp; / &nbsp; XGBOOST &nbsp; / &nbsp; SCIKIT-LEARN &nbsp; / &nbsp; SHAP &nbsp; / &nbsp; FASTAPI</sub>
+</td>
+</tr>
+</table>
 
+<table>
+<tr>
+<td width="68%" valign="top">
+
+### <a href="https://github.com/Sujeet-Kona/LoRAFlow">LORAFLOW</a>
+<sub>03 — LLM EXPERIMENTATION PIPELINE</sub>
+
+Configuration-driven LoRA fine-tuning workflow covering dataset validation, supervised training, multi-seed experiments, held-out evaluation, adapter export/reload, and API serving.
+
+**PROMPT-V2 · TRACK B · HELD-OUT SET**
+
+</td>
+<td width="32%" align="center" valign="middle">
+
+<strong>77.33%</strong><br />
+<sub>EXACT MATCH</sub>
+<br /><br />
+<strong>56.00%</strong><br />
+<sub>TF-IDF BASELINE</sub>
+<br /><br />
+<sub>+21.33 percentage points</sub>
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<sub>PYTORCH &nbsp; / &nbsp; TRANSFORMERS &nbsp; / &nbsp; TRL &nbsp; / &nbsp; PEFT &nbsp; / &nbsp; LORA</sub>
 </td>
 </tr>
 </table>
 
 ---
 
-## 02 — ENGINEERING TOOLKIT
+## 02 / ENGINEERING STACK
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**01 / BUILD**
+**[ A ] BACKEND & DATA**
 
-- Python, C, SQL
-- FastAPI, REST APIs
-- PostgreSQL, SQLAlchemy, Alembic
-- Docker, Git, GitHub
+Python · C · SQL  
+FastAPI · REST APIs  
+PostgreSQL · SQLAlchemy · Alembic  
+Docker · Git · GitHub
 
 </td>
 <td width="50%" valign="top">
 
-**02 / MODEL**
+**[ B ] MACHINE LEARNING**
 
-- PyTorch, Scikit-learn, XGBoost
-- Hugging Face Transformers
-- PEFT, LoRA, TRL
-- SHAP, Pandas, NumPy
+PyTorch · Scikit-learn · XGBoost  
+Pandas · NumPy · SHAP  
+Hugging Face Transformers  
+PEFT · LoRA · TRL
 
 </td>
 </tr>
 <tr>
 <td colspan="2">
 
-**03 / RETRIEVE & EVALUATE**
+**[ C ] RETRIEVAL & EVALUATION**
 
-- Qdrant, BM25, dense and hybrid retrieval
-- Reciprocal-rank fusion, cross-encoder reranking
-- pytest, regression testing, held-out evaluation
+Qdrant · BM25 · Dense / Hybrid Search · Reciprocal-Rank Fusion · Cross-Encoder Reranking · pytest · Regression Testing
 
 </td>
 </tr>
 </table>
 
----
+## 03 / OPEN-SOURCE TRACE
 
-## 03 — OPEN SOURCE
+**<a href="https://github.com/qdrant/qdrant-client/pull/1653">Qdrant Client — PR #1653</a>**
 
-**<a href="https://github.com/qdrant/qdrant-client/pull/1653">Qdrant Client · PR #1653</a>**
-
-Contributed vector-name validation to the local collection implementation, with regression tests for retrieval and query operations. <sub>Submitted pull request · see GitHub for review status.</sub>
+Vector-name validation in the local collection implementation, with regression coverage for retrieval and query operations.  
+<sub>Submitted pull request · review status is available on GitHub.</sub>
 
 ---
 
 <div align="center">
 
-### LESS HYPE. MORE ENGINEERING.
-
-<sub>Understand the system. Measure the result. Improve the implementation.</sub>
+<sub>01 / BUILD WITH INTENT &nbsp;&nbsp; 02 / MEASURE WITH DISCIPLINE &nbsp;&nbsp; 03 / IMPROVE THE SYSTEM</sub>
 
 <br /><br />
 
-<a href="https://github.com/Sujeet-Kona/NEXORA">NEXORA</a>
-&nbsp; · &nbsp;
-<a href="https://github.com/Sujeet-Kona/RiskForge">RISKFORGE</a>
-&nbsp; · &nbsp;
-<a href="https://github.com/Sujeet-Kona/LoRAFlow">LORAFLOW</a>
+**LESS NOISE. MORE SIGNAL.**
 
 </div>
