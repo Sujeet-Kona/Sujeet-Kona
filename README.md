@@ -16,71 +16,76 @@
 
 ## About
 
-Third-year Electronics and Communication Engineering student focused on **Applied AI Engineering**. I build Python backend systems and work across machine learning, LLM fine-tuning, and retrieval.
+I'm a third-year Electronics and Communication Engineering student interested in building reliable software systems. I work across **Python backend development, machine learning, and LLM engineering**. I value clear fundamentals, careful evaluation, and code that is straightforward to understand and maintain.
 
 ## Technology
 
-<div align="center">
-
-**LANGUAGES & BACKEND**
-
-<a href="https://www.python.org/"><img src="https://cdn.simpleicons.org/python/3776AB" width="42" height="42" alt="Python" /></a>&nbsp;&nbsp;
-<a href="https://en.cppreference.com/w/c"><img src="https://cdn.simpleicons.org/c/A8B9CC" width="42" height="42" alt="C" /></a>&nbsp;&nbsp;
-<a href="https://fastapi.tiangolo.com/"><img src="https://cdn.simpleicons.org/fastapi/009688" width="42" height="42" alt="FastAPI" /></a>&nbsp;&nbsp;
-<a href="https://www.postgresql.org/"><img src="https://cdn.simpleicons.org/postgresql/4169E1" width="42" height="42" alt="PostgreSQL" /></a>&nbsp;&nbsp;
-<a href="https://www.sqlalchemy.org/"><img src="https://cdn.simpleicons.org/sqlalchemy/D71F00" width="42" height="42" alt="SQLAlchemy" /></a>
-
-<sub>Python　 C　 FastAPI　 PostgreSQL　 SQLAlchemy　 ·　 SQL</sub>
-
-<br /><br />
-
-**MACHINE LEARNING**
-
-<a href="https://pytorch.org/"><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="42" height="42" alt="PyTorch" /></a>&nbsp;&nbsp;
-<a href="https://scikit-learn.org/"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="42" height="42" alt="Scikit-learn" /></a>&nbsp;&nbsp;
-<a href="https://xgboost.ai/"><img src="https://img.shields.io/badge/XGBoost-256B3A?style=flat&logo=xgboost&logoColor=white" height="28" alt="XGBoost" /></a>&nbsp;&nbsp;
-<a href="https://pandas.pydata.org/"><img src="https://cdn.simpleicons.org/pandas/150458" width="42" height="42" alt="Pandas" /></a>&nbsp;&nbsp;
-<a href="https://numpy.org/"><img src="https://cdn.simpleicons.org/numpy/013243" width="42" height="42" alt="NumPy" /></a>
-
-<sub>PyTorch　 Scikit-learn　 XGBoost　 Pandas　 NumPy</sub>
-
-<br /><br />
-
-**LLM ENGINEERING**
-
-<a href="https://huggingface.co/"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="42" height="42" alt="Hugging Face" /></a>
-
-<sub>Hugging Face　 ·　 PEFT　 ·　 LoRA　 ·　 TRL</sub>
-
-<br /><br />
-
-**RETRIEVAL & SEARCH**
-
-<a href="https://qdrant.tech/"><img src="https://cdn.simpleicons.org/qdrant/DC244C" width="42" height="42" alt="Qdrant" /></a>
-
-<sub>Qdrant　 ·　 BM25　 ·　 Hybrid Retrieval　 ·　 Reranking</sub>
-
-<br /><br />
-
-**TOOLS & QUALITY**
-
-<a href="https://www.docker.com/"><img src="https://cdn.simpleicons.org/docker/2496ED" width="42" height="42" alt="Docker" /></a>&nbsp;&nbsp;
-<a href="https://git-scm.com/"><img src="https://cdn.simpleicons.org/git/F05032" width="42" height="42" alt="Git" /></a>&nbsp;&nbsp;
-<a href="https://github.com/"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="42" height="42" alt="GitHub" /></a>&nbsp;&nbsp;
-<a href="https://pytest.org/"><img src="https://cdn.simpleicons.org/pytest/0A9EDC" width="42" height="42" alt="pytest" /></a>
-
-<sub>Docker　 Git　 GitHub　 pytest</sub>
-
-</div>
+<table>
+  <tr>
+    <td colspan="5"><strong>LANGUAGES & BACKEND</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/python/3776AB" height="34" alt="Python" /><br/><sub>Python</sub></td>
+    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/c/A8B9CC" height="34" alt="C" /><br/><sub>C</sub></td>
+    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/fastapi/009688" height="34" alt="FastAPI" /><br/><sub>FastAPI</sub></td>
+    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/postgresql/4169E1" height="34" alt="PostgreSQL" /><br/><sub>PostgreSQL</sub></td>
+    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/sqlalchemy/D71F00" height="34" alt="SQLAlchemy" /><br/><sub>SQLAlchemy</sub></td>
+  </tr>
+  <tr>
+    <td colspan="5"><strong>MACHINE LEARNING</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="34" alt="PyTorch" /><br/><sub>PyTorch</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="34" alt="Scikit-learn" /><br/><sub>Scikit-learn</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/xgboost/256B3A" height="34" alt="XGBoost" /><br/><sub>XGBoost</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/pandas/150458" height="34" alt="Pandas" /><br/><sub>Pandas</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/numpy/013243" height="34" alt="NumPy" /><br/><sub>NumPy</sub></td>
+  </tr>
+  <tr>
+    <td colspan="5"><strong>LLM ENGINEERING</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="34" alt="Hugging Face" /><br/><sub>Hugging Face</sub></td>
+    <td align="center"><sub>PEFT</sub></td>
+    <td align="center"><sub>LoRA / QLoRA</sub></td>
+    <td align="center"><sub>TRL</sub></td>
+    <td align="center"><sub>Evaluation</sub></td>
+  </tr>
+  <tr>
+    <td colspan="5"><strong>RETRIEVAL & SEARCH</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.simpleicons.org/qdrant/DC244C" height="34" alt="Qdrant" /><br/><sub>Qdrant</sub></td>
+    <td align="center"><sub>BM25</sub></td>
+    <td align="center"><sub>Hybrid Retrieval</sub></td>
+    <td align="center"><sub>Reranking</sub></td>
+    <td align="center"><sub>Citations</sub></td>
+  </tr>
+  <tr>
+    <td colspan="5"><strong>TOOLS & QUALITY</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.simpleicons.org/docker/2496ED" height="34" alt="Docker" /><br/><sub>Docker</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/git/F05032" height="34" alt="Git" /><br/><sub>Git</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/github/FFFFFF" height="34" alt="GitHub" /><br/><sub>GitHub</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/pytest/0A9EDC" height="34" alt="pytest" /><br/><sub>pytest</sub></td>
+    <td align="center"><sub>Linux</sub></td>
+  </tr>
+</table>
 
 ---
 
-## Contribution activity
+## GitHub Activity
 
 <div align="center">
 
-<!-- Black-background snake animation, generated by .github/workflows/snake.yml -->
-<img src="https://raw.githubusercontent.com/Sujeet-Kona/Sujeet-Kona/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake on a black background" />
+<a href="https://github.com/Sujeet-Kona">
+  <img src="https://streak-stats.demolab.com?user=Sujeet-Kona&theme=transparent&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E" height="165" alt="GitHub contribution streak" />
+</a>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Sujeet-Kona/Sujeet-Kona/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution graph animation on a black background" />
 
 </div>
 
