@@ -1,41 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="430" viewBox="0 0 1400 430" role="img" aria-labelledby="title desc">
-<title id="title">Sujeet Kona — Systems Lab</title>
-<desc id="desc">A dark engineering interface with an amber arc-reactor-inspired instrument, technical grid, and systems engineering typography.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="360" viewBox="0 0 1400 360" role="img" aria-labelledby="title desc">
+<title id="title">Sujeet Kona — Engineering</title>
+<desc id="desc">A restrained graphite and copper engineering banner with a custom circular technical instrument.</desc>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#090c11"/><stop offset=".58" stop-color="#111923"/><stop offset="1" stop-color="#080a0e"/></linearGradient>
-  <radialGradient id="glow"><stop offset="0" stop-color="#ff9b38" stop-opacity=".32"/><stop offset=".48" stop-color="#ff7a1a" stop-opacity=".10"/><stop offset="1" stop-color="#ff7a1a" stop-opacity="0"/></radialGradient>
-  <linearGradient id="amber" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffd08a"/><stop offset=".45" stop-color="#ff8a2a"/><stop offset="1" stop-color="#b94b16"/></linearGradient>
-  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#91a4b8" stroke-opacity=".08" stroke-width="1"/></pattern>
-  <filter id="blur"><feGaussianBlur stdDeviation="18"/></filter>
-  <filter id="soft"><feGaussianBlur stdDeviation="4"/></filter>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#211811"/><stop offset=".55" stop-color="#15110e"/><stop offset="1" stop-color="#090807"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#f6a04a" stop-opacity=".28"/><stop offset=".5" stop-color="#b85b24" stop-opacity=".09"/><stop offset="1" stop-color="#b85b24" stop-opacity="0"/></radialGradient>
+  <linearGradient id="copper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffe0a8"/><stop offset=".5" stop-color="#e58a3c"/><stop offset="1" stop-color="#9e4822"/></linearGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#d4b99d" stroke-opacity=".07"/></pattern>
+  <filter id="blur"><feGaussianBlur stdDeviation="16"/></filter>
 </defs>
-<rect width="1400" height="430" rx="22" fill="url(#bg)"/>
-<rect width="1400" height="430" rx="22" fill="url(#grid)"/>
-<circle cx="1110" cy="214" r="250" fill="url(#glow)"/>
-<path d="M32 62H1368M32 368H1368" stroke="#d9e2ed" stroke-opacity=".14"/>
-<path d="M32 62h70m-70 0v42M1368 62h-70m70 0v42M32 368h70m-70 0v-42M1368 368h-70m70 0v-42" fill="none" stroke="#ff9138" stroke-opacity=".7" stroke-width="2"/>
+<rect width="1400" height="360" rx="18" fill="url(#bg)"/>
+<rect width="1400" height="360" rx="18" fill="url(#grid)"/>
+<circle cx="1110" cy="180" r="220" fill="url(#glow)"/>
+<path d="M34 52H1366M34 308H1366" stroke="#e7d4c1" stroke-opacity=".16"/>
+<path d="M34 52h54m-54 0v34M1366 52h-54m54 0v34M34 308h54m-54 0v-34M1366 308h-54m54 0v-34" fill="none" stroke="#df914f" stroke-opacity=".8" stroke-width="2"/>
 <g font-family="Arial,Helvetica,sans-serif">
-  <text x="82" y="111" fill="#ff9a45" font-size="15" letter-spacing="4">SYSTEMS LAB  /  PROFILE 001</text>
-  <text x="78" y="203" fill="#f4f6f8" font-size="66" font-weight="700" letter-spacing="2">SUJEET KONA</text>
-  <text x="82" y="247" fill="#c2cbd5" font-size="20" letter-spacing="3">SOFTWARE SYSTEMS  ·  APPLIED AI</text>
-  <text x="82" y="306" fill="#8997a6" font-size="16" letter-spacing="1.2">ECE UNDERGRADUATE  /  ENGINEERING THROUGH EVIDENCE</text>
-  <text x="82" y="340" fill="#ffad65" font-size="13" letter-spacing="2">DESIGN  //  BUILD  //  MEASURE  //  ITERATE</text>
+<text x="82" y="98" fill="#e9a66b" font-size="14" letter-spacing="4">PERSONAL ENGINEERING PROFILE</text>
+<text x="78" y="181" fill="#fff8ef" font-size="66" font-weight="700" letter-spacing="1.5">SUJEET KONA</text>
+<text x="82" y="224" fill="#e2d2c3" font-size="19" letter-spacing="2.5">BACKEND ENGINEERING  ·  APPLIED AI</text>
+<text x="82" y="275" fill="#bca895" font-size="15" letter-spacing="1">ECE UNDERGRADUATE  /  BUILDING WITH PYTHON</text>
 </g>
-<g transform="translate(1110 214)">
-  <circle r="154" fill="none" stroke="#ff9138" stroke-opacity=".12" stroke-width="1"/>
-  <circle r="136" fill="none" stroke="#ff9138" stroke-opacity=".42" stroke-width="2" stroke-dasharray="3 9"/>
-  <circle r="116" fill="none" stroke="#d8e0e9" stroke-opacity=".25" stroke-width="1"/>
-  <circle r="93" fill="none" stroke="#ff9b45" stroke-opacity=".5" stroke-width="5" stroke-dasharray="160 24 42 24 190 24"/>
-  <circle r="70" fill="url(#glow)" filter="url(#blur)"/>
-  <circle r="56" fill="#111820" stroke="url(#amber)" stroke-width="5"/>
-  <circle r="40" fill="none" stroke="#ffb36b" stroke-opacity=".8" stroke-width="2"/>
-  <circle r="25" fill="#ff8a2a" fill-opacity=".16" stroke="#ffd09a" stroke-opacity=".9" stroke-width="1.5"/>
-  <circle r="9" fill="#ffd39d" filter="url(#soft)"/>
-  <path d="M0-178v24M0 154v24M-178 0h24M154 0h24M-126-126l17 17M109 109l17 17M126-126l-17 17M-109 109l-17 17" stroke="#ff9a45" stroke-width="2" stroke-opacity=".7"/>
+<g transform="translate(1110 180)">
+<circle r="137" fill="none" stroke="#d98b4c" stroke-opacity=".16"/>
+<circle r="119" fill="none" stroke="#e39a5d" stroke-opacity=".55" stroke-width="2" stroke-dasharray="3 8"/>
+<circle r="98" fill="none" stroke="#e9d7c4" stroke-opacity=".22"/>
+<circle r="78" fill="none" stroke="#e5a06a" stroke-opacity=".6" stroke-width="5" stroke-dasharray="128 22 38 22 150 22"/>
+<circle r="57" fill="url(#glow)" filter="url(#blur)"/>
+<circle r="48" fill="#21160f" stroke="url(#copper)" stroke-width="4"/>
+<circle r="32" fill="none" stroke="#f1bd8e" stroke-opacity=".85" stroke-width="2"/>
+<circle r="13" fill="#eaa05c" fill-opacity=".22" stroke="#ffdfb4" stroke-width="1.5"/>
+<circle r="5" fill="#fff0d9"/>
+<path d="M0-158v22M0 136v22M-158 0h22M136 0h22M-112-112l15 15M97 97l15 15M112-112l-15 15M-97 97l-15 15" stroke="#e9a66b" stroke-width="2"/>
 </g>
-<g font-family="monospace" font-size="11" fill="#8d9baa">
-  <text x="1300" y="142" text-anchor="end">CORE / ONLINE</text>
-  <text x="1300" y="160" text-anchor="end" fill="#ffad65">●  SYSTEMS ACTIVE</text>
-  <text x="1300" y="294" text-anchor="end">BUILD 2026.11</text>
+<g font-family="monospace" font-size="11" fill="#bca895">
+<text x="1300" y="126" text-anchor="end">ENGINEERING / ACTIVE</text>
+<text x="1300" y="144" text-anchor="end" fill="#e9a66b">● BUILD · TEST · REFINE</text>
+<text x="1300" y="242" text-anchor="end">ECE / 2028</text>
 </g>
 </svg>
