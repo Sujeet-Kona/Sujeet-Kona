@@ -18,49 +18,40 @@
 
 ## About
 
-Third-year Electronics and Communication Engineering student focused on **Applied AI Engineering**. I build Python backend systems and develop practical solutions across machine learning, LLM fine-tuning, and retrieval.
+Third-year Electronics and Communication Engineering student focused on **Applied AI Engineering**. I build Python backend systems and work across machine learning, LLM fine-tuning, and retrieval.
 
 ## Technology
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
 **LANGUAGES & BACKEND**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" alt="C" />
 <img src="https://img.shields.io/badge/SQL-263B55?style=flat" alt="SQL" />
-
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
 
-</td>
-<td width="50%" valign="top">
+<br />
 
 **MACHINE LEARNING**
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-
 <img src="https://img.shields.io/badge/XGBoost-256B3A?style=flat&logo=xgboost&logoColor=white" alt="XGBoost" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<br />
 
 **LLM ENGINEERING**
 
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="Hugging Face" />
-<img src="https://img.shields.io/badge/PEFT%20%2F%20LoRA-6E56CF?style=flat" alt="PEFT and LoRA" />
-<img src="https://img.shields.io/badge/TRL-6E56CF?style=flat" alt="TRL" />
+<img src="https://img.shields.io/badge/PEFT%20%2F%20LoRA-344563?style=flat" alt="PEFT and LoRA" />
+<img src="https://img.shields.io/badge/TRL-344563?style=flat" alt="TRL" />
 
-</td>
-<td width="50%" valign="top">
+<br />
 
 **RETRIEVAL & SEARCH**
 
@@ -69,23 +60,16 @@ Third-year Electronics and Communication Engineering student focused on **Applie
 <img src="https://img.shields.io/badge/Hybrid%20Retrieval-29445C?style=flat" alt="Hybrid retrieval" />
 <img src="https://img.shields.io/badge/Reranking-29445C?style=flat" alt="Reranking" />
 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+<br />
 
 **TOOLS & QUALITY**
 
-<div align="center">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
 <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white" alt="pytest" />
-</div>
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -93,7 +77,7 @@ Third-year Electronics and Communication Engineering student focused on **Applie
 
 <div align="center">
 
-<!-- Snake animation is generated daily by .github/workflows/snake.yml -->
+<!-- Generated daily by .github/workflows/snake.yml -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sujeet-Kona/Sujeet-Kona/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sujeet-Kona/Sujeet-Kona/output/github-contribution-grid-snake.svg" />
