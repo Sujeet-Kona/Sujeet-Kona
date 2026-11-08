@@ -34,7 +34,7 @@ I care about understanding the underlying concepts, testing assumptions, and bui
   <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="30" alt="PyTorch" />
   &nbsp;<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="30" alt="Scikit-learn" />
   &nbsp;<img src="https://cdn.simpleicons.org/xgboost/256B3A" height="30" alt="XGBoost" />
-  &nbsp;&nbsp; NumPy · Pandas · Feature Engineering · Model Evaluation
+  &nbsp;&nbsp; NumPy · Pandas · SHAP
 </p>
 
 <p align="left">
@@ -46,7 +46,7 @@ I care about understanding the underlying concepts, testing assumptions, and bui
 <p align="left">
   <strong>RETRIEVAL & SEARCH</strong><br/>
   <img src="https://cdn.simpleicons.org/qdrant/DC244C" height="30" alt="Qdrant" />
-  &nbsp;&nbsp; BM25 · Hybrid Retrieval · Reranking · RAG · Grounded Citations
+  &nbsp;&nbsp; BM25 · Hybrid Retrieval · Reranking · RAG · LangChain
 </p>
 
 <p align="left">
